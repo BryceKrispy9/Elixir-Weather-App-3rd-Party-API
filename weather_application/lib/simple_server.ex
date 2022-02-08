@@ -1,6 +1,6 @@
-defmodule WeatherApplication do
+defmodule SimpleServer do
   @moduledoc """
-  Documentation for `WeatherApplication`.
+  Documentation for `SimpleServer`.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule WeatherApplication do
 
   ## Examples
 
-      iex> WeatherApplication.hello()
+      iex> SimpleServer.hello()
       :world
 
   """
